@@ -10,11 +10,12 @@ and reinforcement learning from scratch.
 
 | Chapter | Topic | Status |
 |---|---|---|
-| 0.0 | PyTorch Basics | 🔄 In progress |
-| 0.1 | ResNet | ⏸ Not started |
-| 0.2 | Optimization | ⏸ Not started |
-| 1.1 | Transformers | ⏸ Not started |
-| 1.2 | Mechanistic Interpretability | ⏸ Not started |
+| 0.0 | Prerequisites | 🔄 In progress |
+| 0.1 | Ray Tracing | ⏸ Not started |
+| 0.2 | CNN & ResNets | ⏸ Not started |
+| 0.3 | Optimization | ⏸ Not started |
+| 0.4 | Bachpropagation | ⏸ Not started |
+| 0.5 | VAEs & GANs | ⏸ Not started |
 
 ---
 
