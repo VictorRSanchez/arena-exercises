@@ -13,8 +13,8 @@ and reinforcement learning from scratch.
 | 0.0 | Prerequisites | ✅ Complete  |
 | 0.1 | Ray Tracing | ✅ Complete |
 | 0.2 | CNN & ResNets | ✅ Complete |
-| 0.3 | Optimization | 🔄 In progress |
-| 0.4 | Bachpropagation | ⏸ Not started |
+| 0.3 | Optimization | ✅ Complete |
+| 0.4 | Bachpropagation | 🔄 In progress |
 | 0.5 | VAEs & GANs | ⏸ Not started |
 
 ---
