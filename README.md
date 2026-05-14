@@ -14,8 +14,8 @@ and reinforcement learning from scratch.
 | 0.1 | Ray Tracing | ✅ Complete |
 | 0.2 | CNN & ResNets | ✅ Complete |
 | 0.3 | Optimization | ✅ Complete |
-| 0.4 | Bachpropagation | 🔄 In progress |
-| 0.5 | VAEs & GANs | ⏸ Not started |
+| 0.4 | Bachpropagation | ✅ Complete  |
+| 0.5 | VAEs & GANs | 🔄 In progress |
 
 ---
 
