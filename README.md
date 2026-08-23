@@ -8,14 +8,15 @@ and reinforcement learning from scratch.
 
 ## Progress
 
-| Chapter | Topic | Status |
-|---|---|---|
-| 0.0 | Prerequisites | ✅ Complete  |
-| 0.1 | Ray Tracing | ✅ Complete |
-| 0.2 | CNN & ResNets | ✅ Complete |
-| 0.3 | Optimization | ✅ Complete |
-| 0.4 | Bachpropagation | ✅ Complete  |
-| 0.5 | VAEs & GANs | 🔄 In progress |
+| Chapter | Topic              | Status         |
+|---------|---------------------|----------------|
+| 0.0     | Prerequisites       | ✅ Complete    |
+| 0.1     | Ray Tracing         | ✅ Complete    |
+| 0.2     | CNN & ResNets       | ✅ Complete    |
+| 0.3     | Optimization        | ✅ Complete    |
+| 0.4     | Backpropagation     | ✅ Complete    |
+| 0.5     | VAEs & GANs         | ✅ Complete    |
+| 1.1     | Transformers        | 🔄 In progress |
 
 ---
 
